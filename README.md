@@ -69,9 +69,7 @@ The dashboard helps answer questions like:
 ---
 
 ## 🖼️ Preview
-*(![Global sales Dashboard image](https://github.com/user-attachments/assets/8bdb8518-5f21-4290-b358-0f711c2ab9d5)
-*
-
+![Global sales Dashboard image](https://github.com/user-attachments/assets/8bdb8518-5f21-4290-b358-0f711c2ab9d5)
 
 ---
 
