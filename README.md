@@ -1,4 +1,4 @@
-📊 Global Sales Dashboard – Excel Data Analysis Project
+#📊 Global Sales Dashboard – Excel Data Analysis Project
 🧾 Project Overview
 This project presents a complete Sales Dashboard built using Microsoft Excel, based on a dataset of over 60,000 rows covering multiple continents, countries, and states. The goal was to transform raw transactional data into actionable business insights through cleaning, analysis, and visualization.
 
