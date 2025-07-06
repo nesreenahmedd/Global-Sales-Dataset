@@ -1,4 +1,4 @@
-# 📊 Global Sales Dashboard – Excel Data Analysis Project
+# 🌍 Global Sales Dashboard – Excel Data Analysis Project
 An interactive Excel dashboard to analyze global product sales across regions, categories, and periods. Built to uncover trends and support business decisions through data visualization.
 
 ## 🧾 Project Overview
